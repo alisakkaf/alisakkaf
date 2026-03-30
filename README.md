@@ -33,16 +33,23 @@ Beyond writing code, I actively engage in **Vulnerability Research**, analyzing 
 
 <div align="center">
   <a href="https://github.com/alisakkaf">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisakkaf&theme=react-dark&hide_border=true" alt="Ali's Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisakkaf&theme=tokyo-night&hide_border=true" alt="Ali's Activity Graph" width="100%" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisakkaf&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=A1B4C4&cache_seconds=86400" alt="Ali's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisakkaf&theme=tokyonight" alt="Ali's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisakkaf&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=A1B4C4&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisakkaf&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisakkaf&theme=tokyonight&utcOffset=3" alt="Productive Time" width="48%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisakkaf&theme=tokyonight" alt="Most Committed Languages" width="48%" />
 </div>
 
 ---
