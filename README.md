@@ -33,24 +33,27 @@ Beyond writing code, I actively engage in **Vulnerability Research**, analyzing 
 ### 📊 GitHub Analytics & Operations
 
 <div align="center">
-  <a href="https://github.com/alisakkaf">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisakkaf&theme=tokyo-night&hide_border=true" alt="Ali's Activity Graph" width="100%" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/alisakkaf/github-profile-summary-cards/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" />
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisakkaf&theme=tokyonight" alt="Ali's GitHub Stats" width="48%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisakkaf&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/alisakkaf/github-profile-summary-cards/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/alisakkaf/github-profile-summary-cards/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" />
+  </a>
 </div>
 
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisakkaf&theme=tokyonight&utcOffset=3" alt="Productive Time" width="48%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisakkaf&theme=tokyonight" alt="Most Committed Languages" width="48%" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/alisakkaf/github-profile-summary-cards/main/profile-summary-card-output/ayu_mirage/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/alisakkaf/github-profile-summary-cards/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" />
+  </a>
 </div>
 
 ---
